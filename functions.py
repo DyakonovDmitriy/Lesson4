@@ -24,7 +24,7 @@ def add (x, y, z=10):
     :param x: первый параметр
     :param y: второй параметр
     :param z: третий параметр
-    :return: возврат суммы
+    :return:  возврат суммы
     '''
     return x+y+z
 
